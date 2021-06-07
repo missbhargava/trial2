@@ -1,5 +1,5 @@
 var  dog,dogImg,happyDog;
-var  bedroom,garden,washroom,livingRoom;
+var  bedroom,garden,WashRoom,livingRoom;
 var  database,foodS,foodStock;
 var  dogHappyImg;
 var milk,milkImg;
